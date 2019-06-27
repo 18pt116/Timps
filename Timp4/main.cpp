@@ -1,5 +1,5 @@
 /*! @file main.cpp
-* @author Максимов О.В.
+* @author Немков Влад 
 * @version 1.0.0
 * @date 13.06.2019
 * @brief Заголовочный файл для модуля main.cpp
@@ -35,6 +35,7 @@ int main(int argc, char **argv)
 		cerr<<"Ключ не принят"<<endl;
 		return 1;
 	}
+
 	cout<<"Ключ принят"<< endl;
 	modAlphaCipher cipher(key);
 	do {
