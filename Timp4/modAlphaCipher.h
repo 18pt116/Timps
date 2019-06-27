@@ -1,5 +1,5 @@
 /** @file modAlphaCipher.h
-* @author Максимов О.В.
+* @author Немков Влад
 * @version 1.0.0
 * @date 13.06.2019
 * @brief Заголовочный файл для модуля Gronsfeld
